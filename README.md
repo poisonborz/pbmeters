@@ -9,7 +9,10 @@ You can use the 'size' variable to scale the whole skin.
 
 ### Installation
 To install, copy it in its own folder in RM's Skins folder, and load it through the application.
+
+Temps are in Celsius, remove `&unit=m` from both url-s for F-s.
 The GPU meters need per-gpu configuration - more on this in the link below, or you can remove these meters.
+Adjust the MeasureNetOut/MeasureNetIn maxvalues to typical speeds of your region.
 
 ### Notes
 GPU metrics are based on [TGonZo](https://forum.rainmeter.net/viewtopic.php?t=21449)'s skin.
@@ -18,4 +21,4 @@ If you'd also like a neat Calendar, there's a matching [Rainlendar skin](http://
 
 **Beware with those IP addresses when screenshotting.**
 
-<img align="left" src="https://i.imgur.com/BYTUc7Z.jpg">
+<img align="left" src="https://i.imgur.com/3RoaXok.jpg">
